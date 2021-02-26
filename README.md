@@ -4,11 +4,11 @@ A mod for the strategy game Terra Invicta\
 Based on the setting of Battle Action Harem Highschool Side Character Quest_
 
 ## Design Notes (slightly outdated)
-- [Design Notes #2 - The United Nations](https://github.com/TROYTRON/bahhugss/blob/main/TMM%202.md)
-- [Design Notes #3 - Arcologies and Breaches](https://github.com/TROYTRON/bahhugss/blob/main/TMM%203.md)
-- [Design Notes #4 - Scenario Starting Nations, Part 1](https://github.com/TROYTRON/bahhugss/blob/main/TMM%204.md)
-- [Design Notes #5 - Scenario Starting Nations, Part 2](https://github.com/TROYTRON/bahhugss/blob/main/TMM%205.md)
-- [Design Notes #6 - Warfare](https://github.com/TROYTRON/bahhugss/blob/main/TMM%206.md)
+- [Design Notes #2 - The United Nations](https://github.com/TROYTRON/bahhugss/blob/main/docs/TMM%202.md)
+- [Design Notes #3 - Arcologies and Breaches](https://github.com/TROYTRON/bahhugss/blob/main/docs/TMM%203.md)
+- [Design Notes #4 - Scenario Starting Nations, Part 1](https://github.com/TROYTRON/bahhugss/blob/main/docs/TMM%204.md)
+- [Design Notes #5 - Scenario Starting Nations, Part 2](https://github.com/TROYTRON/bahhugss/blob/main/docs/TMM%205.md)
+- [Design Notes #6 - Warfare](https://github.com/TROYTRON/bahhugss/blob/main/docs/TMM%206.md)
 
 ## Factions
 - [Faction Leaders](https://github.com/TROYTRON/bahhugss/blob/main/TI-PVC%20Leaderboard%2001C.png)
