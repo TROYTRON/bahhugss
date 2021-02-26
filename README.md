@@ -1,2 +1,4 @@
-# bahhugss
-Public-facing material for the Project Valkyrie Core mod for Terra Invicta.
+# Project Valkyrie Core
+Or: Battle Action Harem Highschool Ultimate Genius Strategic Simulator
+A mod for the strategy game Terra Invicta
+Based on the setting of Battle Action Harem Highschool Side Character Quest
