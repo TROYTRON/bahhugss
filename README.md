@@ -15,7 +15,9 @@ Based on the setting of Battle Action Harem Highschool Side Character Quest_
 - [Faction Ideology Chart](BAHHSCQ%20Politics%20v4.png)
 
 ## Scenario Design
-- [Starting Nation Stats](https://docs.google.com/spreadsheets/d/1Q24q10s4prjF_WJb0rQBVoIWNEGoloshCUb2pn2M-oI/edit#gid=2095197382)
+- [Initial Nation Stats](https://docs.google.com/spreadsheets/d/1Q24q10s4prjF_WJb0rQBVoIWNEGoloshCUb2pn2M-oI/edit#gid=2095197382)
+- [Democracy Scale](BAHHSCQ%20Nation%20Stats%20Democracy%20v1.png)
+- [Initial World Map](TI-PVC%20World%20Map%202025%201B.png)
 - [Technology Tree (WIP)](BAHHSCQ%20Tech%20Tree-Techs%203c.png)
 
 ## Useful Links
