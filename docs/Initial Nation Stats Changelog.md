@@ -5,6 +5,11 @@
   - Opens up more possibilities for conflicts with Russia and in the Arctic.
   - NOTE: New regions will require revising available resources.
 - Northern Africa re-work:
+  - Rationale:
+    - Countries with such absurdly tiny GDP and population are unlikely to be very interesting to play with.
+    - However, Africa is geographically very large, which is important to account for when the Antagonists arrive.
+    - Old colonial borders are less likely to survive the massive societal disruptions of Impact.
+    - Merging groups of geographically-contiguous small states together is a well-established TI conceit.
   - Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk / Al Bayda region), Tripolitania (Tripoli region).
     - Geographically very large, but very small population, especially in former Libya (exact numbers TBD by Atashkada).
     - Politically about as relevant as Greece in this scenario, which is already merged into Southern Balkans.
@@ -13,6 +18,10 @@
     - Capital and region namesake would be Tamanrasset.
     - Remnants of Niger to be merged with Chad.
     - Remaining southern Mali to be merged with Upper Guinean States, ensuring that Azawagh remains landlocked.
+  - Disestablishment of Mali.
+    - Features quite possibly the lowest GDP of every nation. I'm not even sure if TI supports sub-billion GDPs. Only Libya, CAR, and Somalia share this problem.
+    - Could possibly be merged with Western Sahara to form a single region named "Laayoune".
+    - Laayoune region could either begin as part of Morocco, or a separate country named either "Western Sahara" or "Western Maghreb".
 - UAE to be merged into Oman, with the capital moved to Al Ain.
   - The resulting union simply named "Oman", as it is on the Gulf of Oman.
   - Al Ain is inland and features prominent oases that would be essential to post-Impact agriculture.
