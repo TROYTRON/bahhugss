@@ -12,7 +12,9 @@
   - The resulting union simply named "Oman", as it is on the Gulf of Oman.
   - Al Ain is inland and features prominent oases that would be essential to post-Impact agriculture.
   - The new Oman will be a GCC member and allied with Pakistan.
-
+- Northwest Alliance to be annexed to Arctic States.
+  - Geographical proximity; very low GDP and population; Democracy, Unrest, Education, and Cohesion are similar. Miltech and Inequality likely to be similar.
+  - Alaska is not to be included because of its military dictatorship under Liquid Snake.
 
 
 ## 27/04/2021
