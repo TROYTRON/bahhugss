@@ -7,7 +7,7 @@
 - Northern Africa re-work:
   - Rationale:
     - Countries with such absurdly tiny GDP and population are unlikely to be very interesting to play with.
-    - However, Africa is geographically very large, which is important to account for when the Antagonists arrive.
+    - However, Africa is geographically very large, which is important to account for when the Antagonists arrive. Thus it still needs a lot of regions.
     - Old colonial borders are less likely to survive the massive societal disruptions of Impact.
     - Merging groups of geographically-contiguous small states together is a well-established TI conceit.
   - Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk / Al Bayda region), Tripolitania (Tripoli region).
