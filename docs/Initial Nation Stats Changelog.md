@@ -8,6 +8,11 @@
   - Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk / Al Bayda region), Tripolitania (Tripoli region).
     - Geographically very large, but very small population, especially in former Libya (exact numbers TBD by Atashkada).
     - Politically about as relevant as Greece in this scenario, which is already merged into Southern Balkans.
+  - Creation of Tuareg nation, named "Azawagh". Disestablishment of Mali.
+    - The new state would steal territory from northern Mali, southern Algeria, south-west Libya, and most of Niger.
+    - Capital and region namesake would be Tamanrasset.
+    - Remnants of Niger to be merged with Chad.
+    - Remaining southern Mali to be merged with Upper Guinean States, ensuring that Azawagh remains landlocked.
 - UAE to be merged into Oman, with the capital moved to Al Ain.
   - The resulting union simply named "Oman", as it is on the Gulf of Oman.
   - Al Ain is inland and features prominent oases that would be essential to post-Impact agriculture.
@@ -15,6 +20,11 @@
 - Northwest Alliance to be annexed to Arctic States.
   - Geographical proximity; very low GDP and population; Democracy, Unrest, Education, and Cohesion are similar. Miltech and Inequality likely to be similar.
   - Alaska is not to be included because of its military dictatorship under Liquid Snake.
+- Komi-Karelia to be split into Komi and Karelia.
+  - Closer examination shows Komi and Karelia to be geographically separated by flooding.
+  - Allows the Karelian Question to play out in this scenario, for maximum controversy!
+  - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
+
 
 
 ## 27/04/2021
