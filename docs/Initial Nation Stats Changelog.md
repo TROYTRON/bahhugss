@@ -4,9 +4,15 @@
   - Current 2 CPs will be split into 6 CPs, allowing for more granular faction control.
   - Opens up more possibilities for conflicts with Russia and in the Arctic.
 - Northern Africa re-work:
-  - Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state, Cyrenaica peninsula and desert, Tripolitania.
+  - Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk region), Tripolitania (Tripoli region).
     - Geographically very large, but very small population, especially in former Libya (exact numbers TBD by Atashkada).
     - Politically about as relevant as Greece in this scenario, which is already merged into Southern Balkans.
+- UAE to be merged into Oman, with the capital moved to Al Ain.
+  - The resulting union simply named "Oman", as it is on the Gulf of Oman.
+  - Al Ain is inland and features prominent oases that would be essential to post-Impact agriculture.
+  - The new Oman will be a GCC member and allied with Pakistan.
+
+
 
 ## 27/04/2021
 - Numerous regional claims added. Asa performed magic to have BAHHSCQ Region Claims use data validation for Claimed Region and Initial Region Owner.
