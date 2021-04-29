@@ -22,19 +22,19 @@
     - Features quite possibly the lowest GDP of every nation. I'm not even sure if TI supports sub-billion GDPs. Only Libya, CAR, and Somalia share this problem.
     - Could possibly be merged with Western Sahara to form a single region named "Laayoune".
     - Laayoune region could either begin as part of Morocco, or a separate country named either "Western Sahara" or "Western Maghreb".
-- UAE to be merged into Oman, with the capital moved to Al Ain.
-  - The resulting union simply named "Oman", as it is on the Gulf of Oman.
-  - Al Ain is inland and features prominent oases that would be essential to post-Impact agriculture.
-  - The new Oman will be a GCC member and allied with Pakistan.
-- Northwest Alliance to be annexed to Arctic States.
-  - Geographical proximity; very low GDP and population; Democracy, Unrest, Education, and Cohesion are similar. Miltech and Inequality likely to be similar.
-  - Alaska is not to be included because of its military dictatorship under Liquid Snake.
 - Komi-Karelia to be split into Komi and Karelia.
   - Closer examination shows Komi and Karelia to be geographically separated by flooding.
   - Allows the Karelian Question to play out in this scenario, for maximum controversy!
   - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
 
-
+## 29/04/2021
+- Whitehorse region annexed to Arctic States. Northwest Alliance disestablished.
+  - Geographical proximity; very low GDP and population; Democracy, Unrest, Education, and Cohesion are similar. Miltech and Inequality likely to be similar.
+  - Alaska is not to be included because of its military dictatorship under Liquid Snake.
+- UAE merged into Oman; capital moved to Al Ain.
+  - The resulting union simply named "Oman", as it is on the Gulf of Oman.
+  - Al Ain is inland and features prominent oases that would be essential to post-Impact agriculture.
+  - Inherits foreign relations of both: GCC member and allied with Pakistan.
 
 ## 27/04/2021
 - Numerous regional claims added. Asa performed magic to have BAHHSCQ Region Claims use data validation for Claimed Region and Initial Region Owner.
