@@ -1,9 +1,5 @@
 ## Proposed Changes
-- Nordic States to be de-merged into Norway, Sweden, Finland.
-  - The Nordics are geographically quite significant, especially from a land war perspective. And this mod is all about land wars.
-  - Current 2 CPs will be split into 6 CPs, allowing for more granular faction control.
-  - Opens up more possibilities for conflicts with Russia and in the Arctic.
-  - NOTE: New regions will require revising available resources.
+
 - Northern Africa re-work:
   - Rationale:
     - Countries with such absurdly tiny GDP and population are unlikely to be very interesting to play with.
@@ -26,6 +22,13 @@
   - Closer examination shows Komi and Karelia to be geographically separated by flooding.
   - Allows the Karelian Question to play out in this scenario, for maximum controversy!
   - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
+
+## 30/04/2021
+- Nordic States de-merged into Norway, Sweden, Finland.
+  - The Nordics are geographically quite significant, especially from a land war perspective. And this mod is all about land wars.
+  - Current 2 CPs split into 6 CPs, allowing for more granular faction control.
+  - Opens up more possibilities for conflicts with Russia and in the Arctic.
+  - Region resources revised.
 
 ## 29/04/2021
 - Whitehorse region annexed to Arctic States. Northwest Alliance disestablished.
