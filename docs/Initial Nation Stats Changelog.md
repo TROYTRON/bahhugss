@@ -15,7 +15,7 @@
   - \[REJECTED] Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk / Al Bayda region), Tripolitania (Tripoli region).
     - Geographically very large, but very small population, especially in former Libya (exact numbers TBD by Atashkada).
     - Politically about as relevant as Greece in this scenario, which is already merged into Southern Balkans.
-  - Creation of Tuareg nation, named "Azawagh". Disestablishment of Mali.
+  - Creation of Tuareg nation, named "Azawagh".
     - Replaces existing Niger. Contains Niamey and Tamanrasset regions.
     - New region "Tamanrasset" steals territory from northern Mali, southern Algeria, south-west Libya, and most of Niger.
     - Parts of Niger merged with Chad.
