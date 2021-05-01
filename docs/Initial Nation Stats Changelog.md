@@ -1,9 +1,5 @@
 ## Proposed Changes
 
-- Komi-Karelia to be split into Komi and Karelia.
-  - Closer examination shows Komi and Karelia to be geographically separated by flooding.
-  - Allows the Karelian Question to play out in this scenario, for maximum controversy!
-  - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
 
 ## 01/05/2021
 - Northern Africa re-work:
@@ -24,6 +20,11 @@
     - Mali Featured quite possibly the lowest GDP of every nation. I'm not even sure if TI supports sub-billion GDPs. Only Libya, CAR, and Somalia share this problem.
     - Northwest Mali merged into Western Sahara to form a single region named "Laayoune".
     - Northeast Mali merged into Tamanrasset region.
+- St Petersburg region split into Syktyvkar and Petrozavodsk (I will never remember how to spell these right).
+  - Closer examination shows Komi and Karelia to be geographically separated by flooding.
+  - Allows the Karelian Question to play out in this scenario, for maximum controversy!
+  - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
+  - St Petersburg itself is very much underwater. Sorry Nevill.
 
 ## 30/04/2021
 - Nordic States de-merged into Norway, Sweden, Finland.
