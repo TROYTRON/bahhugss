@@ -1,27 +1,29 @@
 ## Proposed Changes
 
+- Komi-Karelia to be split into Komi and Karelia.
+  - Closer examination shows Komi and Karelia to be geographically separated by flooding.
+  - Allows the Karelian Question to play out in this scenario, for maximum controversy!
+  - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
+
+## 01/05/2021
 - Northern Africa re-work:
   - Rationale:
     - Countries with such absurdly tiny GDP and population are unlikely to be very interesting to play with.
     - However, Africa is geographically very large, which is important to account for when the Antagonists arrive. Thus it still needs a lot of regions.
     - Old colonial borders are less likely to survive the massive societal disruptions of Impact.
     - Merging groups of geographically-contiguous small states together is a well-established TI conceit.
-  - Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk / Al Bayda region), Tripolitania (Tripoli region).
+  - \[REJECTED] Egypt and Libya to be merged into one nation consisting of 3 regions: Egyptian Upper Nile rump state (New Cairo / Aswan region), Cyrenaica peninsula and desert (Benghazi / Tobruk / Al Bayda region), Tripolitania (Tripoli region).
     - Geographically very large, but very small population, especially in former Libya (exact numbers TBD by Atashkada).
     - Politically about as relevant as Greece in this scenario, which is already merged into Southern Balkans.
   - Creation of Tuareg nation, named "Azawagh". Disestablishment of Mali.
-    - The new state would steal territory from northern Mali, southern Algeria, south-west Libya, and most of Niger.
-    - Capital and region namesake would be Tamanrasset.
-    - Remnants of Niger to be merged with Chad.
-    - Remaining southern Mali to be merged with Upper Guinean States, ensuring that Azawagh remains landlocked.
+    - Replaces existing Niger. Contains Niamey and Tamanrasset regions.
+    - New region "Tamanrasset" steals territory from northern Mali, southern Algeria, south-west Libya, and most of Niger.
+    - Parts of Niger merged with Chad.
+    - Remaining southern Mali merged with Upper Guinean States, ensuring that Azawagh remains landlocked.
   - Disestablishment of Mali.
-    - Features quite possibly the lowest GDP of every nation. I'm not even sure if TI supports sub-billion GDPs. Only Libya, CAR, and Somalia share this problem.
-    - Could possibly be merged with Western Sahara to form a single region named "Laayoune".
-    - Laayoune region could either begin as part of Morocco, or a separate country named either "Western Sahara" or "Western Maghreb".
-- Komi-Karelia to be split into Komi and Karelia.
-  - Closer examination shows Komi and Karelia to be geographically separated by flooding.
-  - Allows the Karelian Question to play out in this scenario, for maximum controversy!
-  - Population would likely be increased to compensate. It is currently kinda low anyway. Pending Atashkada magic.
+    - Mali Featured quite possibly the lowest GDP of every nation. I'm not even sure if TI supports sub-billion GDPs. Only Libya, CAR, and Somalia share this problem.
+    - Northwest Mali merged into Western Sahara to form a single region named "Laayoune".
+    - Northeast Mali merged into Tamanrasset region.
 
 ## 30/04/2021
 - Nordic States de-merged into Norway, Sweden, Finland.
