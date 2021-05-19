@@ -47,9 +47,9 @@ Mission Control is being repurposed as STRATNET. The actual gameplay effect of l
 ## Military
 
 This is a tricky one I'm still not really sure about. My general schema for miltech goes something like this:
-2.0 (Industrial Age): The nation possesses little more than light infantry militia with rifles and technicals.
-3.0 (Atomic Age): The nation has a professional standing force, but it is either underdeveloped or missing some key capabilities.
-4.0 (Information Age): The nation retains a modern force with full combined arms and reliable logistics.
+- 2.0 (Industrial Age): The nation possesses little more than light infantry militia with rifles and technicals.
+- 3.0 (Atomic Age): The nation has a professional standing force, but it is either underdeveloped or missing some key capabilities.
+- 4.0 (Information Age): The nation retains a modern force with full combined arms and reliable logistics.
 
 There is also the issue of balance. Adding an army to a single-region nation effectively doubles its miltech (since the army must be engaged before the capital can be occupied), and there are a lot of single-region nations in this scenario.
 
