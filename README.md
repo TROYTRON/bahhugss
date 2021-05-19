@@ -20,14 +20,25 @@ Based on the setting of Battle Action Harem Highschool Side Character Quest_
 - [Democracy Scale](BAHHSCQ%20Nation%20Stats%20Democracy%20v1.png)
 - [Initial World Map](TI-PVC%20World%20Map%202025%202B.png)
 - [Technology Tree](BAHHSCQ%20Tech%20Tree-Techs%203c.png)
-### References (outdated)
-- Basis for World Map: https://www.deviantart.com/ynot1989/art/Climate-Change-Map-202492744
+### References
+- Basis for World Map (slightly outdated): https://www.deviantart.com/ynot1989/art/Climate-Change-Map-202492744
 - https://www.floodmap.net/
-- Nation Populations 2012: https://www.translationdirectory.com/articles/article2416.php
-- Nation GDP(PPP) 2012: https://www.photius.com/rankings/economy/gdp_purchasing_power_parity_2012_1.html
+- Nation Populations 2012 (obsoleted): https://www.translationdirectory.com/articles/article2416.php
+- Nation GDP(PPP) 2012 (obsoleted): https://www.photius.com/rankings/economy/gdp_purchasing_power_parity_2012_1.html
 
 ## Useful Links
 - [Battle Action Harem Highschool Side Character Quest](https://forums.sufficientvelocity.com/threads/battle-action-harem-highschool-side-character-quest-no-sv-you-are-the-waifu.15335/reader/)
 - [Terra Invicta on Steam](https://store.steampowered.com/app/1176470/Terra_Invicta/)
 - [Terra Invicta Dev Diaries](https://www.pavonisinteractive.com/phpBB3/viewforum.php?f=7)
 - [Pavonis Interactive Discord](https://discord.gg/XBVqMZU)
+
+## Special Thanks and Acknowledgements
+- Avalanche: Setting creator, general consulting, being an all-around madlad.
+- Lovenought: Came up with the BAHHUGSS acronym.
+- Hazard: Scenario design.
+- Atashkada: Scenario design.
+- Asa: Scenario design.
+- BOTcommander and Pavonis Interactive Discord community: General modding discussion.
+- johnnylump and Pavonis Interactive: Terra Invicta developers, very supportive of modding efforts and friendly in general.
+- Project Valkyrie Core Discord community: Setting and tech tree discussion.
+- The Practice War Discord community: Setting and tech tree discussion.
