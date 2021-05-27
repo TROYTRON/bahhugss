@@ -26,6 +26,9 @@ Based on the setting of Battle Action Harem Highschool Side Character Quest_
 - Nation Populations 2012 (obsoleted): https://www.translationdirectory.com/articles/article2416.php
 - Nation GDP(PPP) 2012 (obsoleted): https://www.photius.com/rankings/economy/gdp_purchasing_power_parity_2012_1.html
 
+## Assets
+- [United Nations Orgs Logos](TI-PVC%20UN%20Orgs%2001B.png)
+
 ## Useful Links
 - [Battle Action Harem Highschool Side Character Quest](https://forums.sufficientvelocity.com/threads/battle-action-harem-highschool-side-character-quest-no-sv-you-are-the-waifu.15335/reader/)
 - [Terra Invicta on Steam](https://store.steampowered.com/app/1176470/Terra_Invicta/)
