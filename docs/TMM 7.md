@@ -25,7 +25,7 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | Economy | +GDP per capita increases.<br>-Inequality increases.<br>-Environmental damage increases. | Unchanged from TI. |
 | Welfare | +Inequality decreases.<br>+Environmental damage decreases. | Unchanged from TI. |
 | Resettlement | +Moves population from "refugees" to "citizens" status. | New priority. See below for explanation of population mechanics. |
-| Knowledge | +Democracy increases.<br>+Education increases.<br>-Inequality increases. | Mostly the same as in TI, with the addition of a small Inequality penalty reflecting academic elitism and the diversion of resources towards "ivory tower" vanity projects. |
+| Knowledge | +Democracy increases.<br>+Education increases.<br>+Cohesion moves towards 5.<br>-Inequality increases. | Mostly the same as in TI, with the addition of a small Inequality penalty reflecting academic elitism and the diversion of resources towards "ivory tower" vanity projects. |
 | Unity | +Cohesion increases.<br>-Democracy decreases.<br>+Public Opinion moves towards controlling faction(s). | Unchanged from TI. |
 | Military | +If Unrest is low, Miltech score increases.<br>+If Unrest is high, Unrest decreases. | Unchanged from TI. |
 | Spoils | +Grants huge lump sum of Money to controlling faction(s).<br>-Democracy decreases.<br>-Inequality increases.<br>-Environmental damage increases. | Unchanged from TI. |
