@@ -33,7 +33,7 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces "Boost" priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
 | STRATNET | +STRATNET capacity increases by 1. | Rebranded "Mission Control" priority from TI. Otherwise functions identically. |
 | Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army. |
-| Build Navy | +One army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas. |
+| Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas. |
 | Nuclear Weapons | +Nation gains one nuke. | Required tech: _Strategic Deterrence_. |
 | Fortifications | +One region in this nation gains a fortification. | Required tech: _Regional Defense Doctrine_.<br>Rebranded "Space Defences" priority from TI. STO defenses still function the same way, but now also grant defensive combat bonuses to friendly armies stationed in the region. Can also be repeated multiple times to improve the bonus. |
 
