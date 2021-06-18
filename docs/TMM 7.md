@@ -39,7 +39,33 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 
 ## FACTION RESOURCES
 
-TODO
+Described in [DD#3](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=27135&sid=d0f4d4feb17e5e0597b4ba068021b582).
+
+Remains mostly the same as in vanilla TI, with some changes to account for the differences in setting.
+
+### Earth Resources
+
+| Resource | Sources | Uses | Notes |
+| --- | --- | --- | --- |
+| Money | --- | --- | --- |
+| Influence | --- | --- | --- |
+| Ops | --- | --- | --- |
+| Higgs | --- | --- | --- |
+| STRATNET | --- | --- | --- |
+| Research | --- | --- | --- |
+| Projects | --- | --- | --- |
+
+### Arcology Resources
+
+| Resource | Sources | Uses | Notes |
+| --- | --- | --- | --- |
+| Water | --- | --- | --- |
+| Volatiles | --- | --- | --- |
+| Metals | --- | --- | --- |
+| Nobles | --- | --- | --- |
+| Fissiles | --- | --- | --- |
+| Antimatter | --- | --- | --- |
+| Exotics | --- | --- | --- |
 
 # PROPOSED ARCOLOGY MODULES
 
