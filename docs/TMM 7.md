@@ -86,7 +86,7 @@ Arcology resources are produced in Earth regions by Arcologies and distributed t
 | Water | Availability in regions varies based on typical moisture levels. | Used for supporting Arcology populations, fusion and warship fuel, and various industrial applications. | --- |
 | Volatiles | Definition expanded to include things like industrial gases and specialty chemicals.<br>Available in regions with natural gas and shale gas reserves. | Used for fuel, munitions, and industrial applications. | --- |
 | Metals | Availabile in regions with iron, nickel, and copper deposits. | Used for manufacturing most things, particularly heavy machinery.  | --- |
-| Nobles | Availabile in regions with deposits of gold and rare earth elements. | Key component in computers, electronics, batteries, and  | --- |
+| Nobles | Availabile in regions with deposits of gold and rare earth elements. | Key component in computers, electronics, batteries, and energy infrastructure. | --- |
 | Fissiles | Available in regions with deposits of uranium, plutonium, and thorium. | Used for nuclear fission, which is handy for powering Arcology modules, warships, and early Valkyries. | --- |
 | Antimatter | Manufactured in small quantities by certain Arcology modules. | Used to power advanced warships, weapons, and Valkyries. | --- |
 | Exotics | Manufactured in small quantities by certain Arcology modules.<br>Can also be looted from Antagonists. | Used for all sorts of esoteric and specialist applications. | --- |
