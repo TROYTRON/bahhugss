@@ -38,8 +38,8 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | Funding | +Annual Money income increases.<br>-Cohesion decreases. | Similar to TI, but with a small Cohesion penalty to represent divided opinions about where the cash ends up. Might end up removing this priority altogether. |
 | Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces Boost priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
 | STRATNET | +STRATNET capacity increases by 1. | Rebranded Mission Control priority from TI. Otherwise functions identically. |
-| Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army. |
-| Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas. |
+| Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army.<br>Excess armies are held in reserve, being automatically deployed if an existing army is destroyed. |
+| Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas.<br>Excess navies are held in reserve, and will be assigned to reserve armies that are deployed. |
 | Nuclear Weapons | +Nation gains one nuclear barrage. | Required tech: _Strategic Deterrence_. |
 | Fortifications | +One region in this nation gains a fortification. | Required tech: _Regional Defense Doctrine_.<br>Rebranded "Space Defences" priority from TI. STO defenses still function the same way, but now also grant defensive combat bonuses to friendly armies stationed in the region. Can also be repeated multiple times to improve the bonus. |
 
