@@ -67,29 +67,29 @@ Remains mostly the same as in vanilla TI, with some changes to account for the d
 
 ### Earth Resources
 
-| Resource | Sources | Uses | Notes |
-| --- | --- | --- | --- |
-| Money | Councillors, nations, Arcology modules. | Allows factions to Direct Invest in nations.<br>Can be spent to rush-build warships and Arcology modules. | --- |
-| Influence | Councillors, nations, Arcology modules.<br>Nations provide factions with Influence income based on Public Opinion. | Used for recruiting councillors, purchasing orgs, subverting nations, and conducting diplomacy. | --- |
-| Ops | Councillors, Arcology modules. | Spent to perform salvage and special operations. | --- |
+| Resource | Sources | Uses |
+| --- | --- | --- |
+| Money | Councillors, nations, Arcology modules. | Allows factions to Direct Invest in nations.<br>Can be spent to rush-build warships and Arcology modules. |
+| Influence | Councillors, nations, Arcology modules.<br>Nations provide factions with Influence income based on Public Opinion. | Used for recruiting councillors, purchasing orgs, subverting nations, and conducting diplomacy. |
+| Ops | Councillors, Arcology modules. | Spent to perform salvage and special operations. |
 | Higgs | Breaches in nations provide Higgs during the Higgs Golden Age (pre-Antagonists only).<br>Destroying Antagonist Type Zeroes and Hives distributes Higgs income to participating factions.<br>United Nations member nations receive a small Higgs income. | Can be spent to rush-build warships and Arcology modules, and is required to build and operate some of them.<br>Used for various Valkyrie-related applications, such as upgrading Valkyrie-councillors and Valkyrie-armies. | Repurposed Boost from TI. |
-| STRATNET | Councillors, nations, Arcology modules.<br>STRATNET Nodes can be built in nations and Arcologies. | Limits the number of Arcologies, warships, and Valkyrie-armies the faction may safely control.<br>Exceeding the limit results in various penalties. | Rebranded Mission Control from TI. Otherwise identical. |
-| Research | Councillors, nations, Arcology modules. | Allocated towards researching global public techs or faction private projects. | --- |
-| Projects | Councillors, Arcology modules. | Multiplies research speed of faction private projects.<br>Orgs with +Project income unlock the faction's 2nd project slot.<br>Arcology modules with +Project income unlock the faction's 3rd project slot. | --- |
+| STRATNET | Councillors, nations, Arcology modules.<br>STRATNET Nodes can be built in nations and Arcologies. | Limits the number of Arcologies, warships, and Valkyrie-armies the faction may safely control.<br>Exceeding the limit results in various penalties. |
+| Research | Councillors, nations, Arcology modules. | Allocated towards researching global public techs or faction private projects. |
+| Projects | Councillors, Arcology modules. | Multiplies research speed of faction private projects.<br>Orgs with +Project income unlock the faction's 2nd project slot.<br>Arcology modules with +Project income unlock the faction's 3rd project slot. |
 
 ### Arcology Resources
 
 Arcology resources are produced in Earth regions by Arcologies and distributed to the faction pool. They are expected to be used for building, upgrading, and maintaining nice things such as Arcology facilities, Valkyrie-armies, and space warships. They can also be sold off for quick cash.
 
-| Resource | Sources | Uses | Notes |
-| --- | --- | --- | --- |
-| Water | Availability in regions varies based on typical moisture levels. | Used for supporting Arcology populations, fusion and warship fuel, and various industrial applications. | --- |
-| Volatiles | Definition expanded to include things like industrial gases and specialty chemicals.<br>Available in regions with natural gas and shale gas reserves. | Used for fuel, munitions, and industrial applications. | --- |
-| Metals | Availabile in regions with iron, nickel, and copper deposits. | Used for manufacturing most things, particularly heavy machinery.  | --- |
-| Nobles | Availabile in regions with deposits of gold and rare earth elements. | Key component in computers, electronics, batteries, and energy infrastructure. | --- |
-| Fissiles | Available in regions with deposits of uranium, plutonium, and thorium. | Used for nuclear fission, which is handy for powering Arcology modules, warships, and early Valkyries. | --- |
-| Antimatter | Manufactured in small quantities by certain Arcology modules. | Used to power advanced warships, weapons, and Valkyries. | --- |
-| Exotics | Manufactured in small quantities by certain Arcology modules.<br>Can also be looted from Antagonists. | Used for all sorts of esoteric and specialist applications. | --- |
+| Resource | Sources | Uses |
+| --- | --- | --- |
+| Water | Availability in regions varies based on typical moisture levels. | Used for supporting Arcology populations, fusion and warship fuel, and various industrial applications. |
+| Volatiles | Definition expanded to include things like industrial gases and specialty chemicals.<br>Available in regions with natural gas and shale gas reserves. | Used for fuel, munitions, and industrial applications. |
+| Metals | Availabile in regions with iron, nickel, and copper deposits. | Used for manufacturing most things, particularly heavy machinery.  |
+| Nobles | Availabile in regions with deposits of gold and rare earth elements. | Key component in computers, electronics, batteries, and energy infrastructure. |
+| Fissiles | Available in regions with deposits of uranium, plutonium, and thorium. | Used for nuclear fission, which is handy for powering Arcology modules, warships, and early Valkyries. |
+| Antimatter | Manufactured in small quantities by certain Arcology modules. | Used to power advanced warships, weapons, and Valkyries. |
+| Exotics | Manufactured in small quantities by certain Arcology modules.<br>Can also be looted from Antagonists. | Used for all sorts of esoteric and specialist applications. |
 
 ### Research Categories
 
