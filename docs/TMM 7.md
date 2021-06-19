@@ -8,9 +8,11 @@ Since mechanics from both halves of the game are involved, I figured it would be
 
 Described in [DD#4](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=27816).
 
-The dev diary already explains it pretty well, so I'll just leave it there.
+The dev diary already explains how nations work pretty well, so I'll just leave it there. More info about how the stats are implemented in this scenario can be found in [DN#5](docs/TMM%205.md).
 
-More info about how the stats are implemented in this scenario can be found in [DN#5](docs/TMM%205.md).
+One derived stat I am considering adding is **Secrecy**, similar to the Elite Dissatisfaction derived stat that can be seen in [this screenshot](https://discord.com/channels/462769550841348126/606164360720809984/763414372281352232). Secrecy would affect the propensity of information leaks, the ability for councillors or special forces to act freely within the nation, and possibly other things. Higher Democracy would reduce Secrecy, while higher Cohesion would raise it.
+
+I also plan to add a new **Morale** stat for armies, which complements Miltech and likewise affects their combat efficacy. Individual armies can gain Morale from fighting and surviving battles, from the presence of certain Arcology modules in their headquarters region, and possibly from some faction projects or global events.
 
 ### National Priority Investment
 
@@ -28,18 +30,30 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | --- | --- | --- |
 | Economy | +GDP per capita increases.<br>-Inequality increases.<br>-Environmental damage increases. | Unchanged from TI. |
 | Welfare | +Inequality decreases.<br>+Environmental damage decreases. | Unchanged from TI. |
-| Resettlement | +Moves population from "refugees" to "citizens" status. | New priority. See below for explanation of population mechanics. |
-| Knowledge | +Democracy increases.<br>+Education increases.<br>+Cohesion moves towards 5.<br>-Inequality increases. | Mostly the same as in TI, with the addition of a small Inequality penalty reflecting academic elitism and the diversion of resources towards "ivory tower" vanity projects. |
+| Resettlement | +Moves population from "refugees" to "citizens" status. | New priority. See below for explanation of population mechanics.<br>Disregard is unable to invest in this priority. |
+| Knowledge | +Democracy increases.<br>+Education increases.<br>+Cohesion moves towards 5.<br>-Inequality increases.<br>Overfunding Knowledge reduces the nation's Secrecy. | Mostly the same as in TI, with the addition of a small Inequality penalty reflecting academic elitism and the diversion of resources towards "ivory tower" vanity projects. |
 | Unity | +Cohesion increases.<br>-Democracy decreases.<br>+Public Opinion moves towards controlling faction(s). | Unchanged from TI. |
 | Military | +If Unrest is low, Miltech score increases.<br>+If Unrest is high, Unrest decreases. | Unchanged from TI. |
-| Spoils | +Grants huge lump sum of Money to controlling faction(s).<br>-Democracy decreases.<br>-Inequality increases.<br>-Environmental damage increases. | Unchanged from TI. |
+| Spoils | +Grants huge lump sum of Money to controlling faction(s).<br>-Democracy decreases.<br>-Inequality increases.<br>-Environmental damage increases.<br>Underfunding Spoils causes dissatisfied elites, increasing the risk of a coup. | Unchanged from TI. |
 | Funding | +Annual Money income increases.<br>-Cohesion decreases. | Similar to TI, but with a small Cohesion penalty to represent divided opinions about where the cash ends up. Might end up removing this priority altogether. |
-| Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces "Boost" priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
-| STRATNET | +STRATNET capacity increases by 1. | Rebranded "Mission Control" priority from TI. Otherwise functions identically. |
+| Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces Boost priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
+| STRATNET | +STRATNET capacity increases by 1. | Rebranded Mission Control priority from TI. Otherwise functions identically. |
 | Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army. |
 | Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas. |
-| Nuclear Weapons | +Nation gains one nuke. | Required tech: _Strategic Deterrence_. |
+| Nuclear Weapons | +Nation gains one nuclear barrage. | Required tech: _Strategic Deterrence_. |
 | Fortifications | +One region in this nation gains a fortification. | Required tech: _Regional Defense Doctrine_.<br>Rebranded "Space Defences" priority from TI. STO defenses still function the same way, but now also grant defensive combat bonuses to friendly armies stationed in the region. Can also be repeated multiple times to improve the bonus. |
+
+### Population Mechanics
+
+The scenario divides regional populations into three categories: citizens, refugees, and Arcology.
+
+**Citizens** are considered to be the "standard" population for the purposes of TI's nation mechanics.
+
+**Refugees** depict the social pressures caused and experienced by refugees in the BAHHSCQ setting. They are created when warfare and other disasters cause population to flee into neighbouring regions; many nations will have a random number of refugees resulting from Impact at scenario start. They do not contribute to GDP, and are not considered in GDPpc calculations; but their presence in a nation corrodes all the nice stats, especially Inequality and Cohesion (and thus Unrest). This can be averted by investing in the Resettlement priority, or by having Valkyries and armies perform the Reconstruction mission, both of which move a number of refugees to the citizens category.
+Note that nations controlled by Disregard will not admit _any_ refugees, while nations controlled by Enlighten will admit double.
+
+**Arcology** populations are those who live inside Arcologies. Residential modules be built to house them, which will drain population from the citizens category over time (and then refugees, if no citizens are present). If an Arcology's population ever exceeds its residential capacity, the excess population is immediately kicked out and resigned to refugee status, making the sabotage of residential modules a nice way to destabilize a nation.
+Arcology populations are safe from most depradations and more prosperous than ordinary citizens, improving the nation's Money and Research outputs; but they are very sensitive to drops in living standards, and highly susceptible to propaganda.
 
 ## FACTION RESOURCES
 
@@ -75,8 +89,11 @@ Arcology resources are produced in Earth regions by Arcologies and distributed t
 
 ### Research Categories
 
-More information on how research works in TI can be found in [DD#10](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=28950&sid=a3e1d2d6c88da0a7164062b896c82dc0).
+TI's research mechanics are described in [DD#10](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=28950&sid=a3e1d2d6c88da0a7164062b896c82dc0).
 
+The current planned tech tree for this scenario is [here](BAHHSCQ%20Tech%20Tree-Techs%203c.png).
+
+Techs and projects are planned to be divided into nine categories:
 - Infrastructure.
 - Valkyries.
 - Energy.
@@ -87,8 +104,19 @@ More information on how research works in TI can be found in [DD#10](https://www
 - Military Science.
 - Antagonists.
 
-The current planned tech tree for this scenario is [here](BAHHSCQ%20Tech%20Tree-Techs%203c.png).
+Some Arcology modules will provide bonuses to specific research categories, effectively multiplying Research output for those categories. Notably, these bonuses stack *geometrically*, creating an incentive for factions to specialize their research instead of generalizing.
 
 # PROPOSED ARCOLOGY MODULES
 
-TODO
+## Module Attributes
+
+**Defense rating**: This determines how strongly the Arcology will resist external invasion attempts. Councillors belonging to the controlling faction (or its allies) will also benefit from an Arcology's Defense rating while they are inside it.
+**Atrocity module**: The functions of these modules are considered an atrocity and thus kept secret. If the module is ever destroyed (e.g. by a councillor sabotaging it), its existence will be revealed, and the controlling faction suffers an atrocity event and corresponding Public Opinion loss. Alternatively, disgruntled employees in low-Secrecy nations may randomly leak the facility's existence, Snowden-style.
+
+Note that all proposed stats are merely indicative and subject to change.
+
+## Basic Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
