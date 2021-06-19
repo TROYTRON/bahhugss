@@ -111,6 +111,7 @@ Some Arcology modules will provide bonuses to specific research categories, effe
 ## Module Attributes
 
 **Defense rating**: This determines how strongly the Arcology will resist external invasion attempts. Councillors belonging to the controlling faction (or its allies) will also benefit from an Arcology's Defense rating while they are inside it.
+
 **Atrocity module**: The functions of these modules are considered an atrocity and thus kept secret. If the module is ever destroyed (e.g. by a councillor sabotaging it), its existence will be revealed, and the controlling faction suffers an atrocity event and corresponding Public Opinion loss. Alternatively, disgruntled employees in low-Secrecy nations may randomly leak the facility's existence, Snowden-style.
 
 Note that all proposed stats are merely indicative and subject to change.
@@ -119,4 +120,52 @@ Note that all proposed stats are merely indicative and subject to change.
 
 | Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+
+## General Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+## Power Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+## Habitation Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+## Science Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+## Military Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+## Valkyrie Modules
+
+| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+## United Nations Modules
+
+These modules gain significantly increased stats if the controlling faction owns the respective org.
+
+| Module | Required Tech | Upgrade Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| UNESCO Heritage Site | Environmental Stewardship | --- | --- | +(+)Research | --- | --- | +(++)Knowledge | --- |
+| UNARD Design Bureau | Technological Optimization<br>Network Effects | --- | --- | +(+)Projects | --- | +(++)Military Science | +(+)Military | --- |
+| UNDHMOR Distribution Centre | Post-Scarcity Economics | --- | --- | +(+++)Money<br>+Higgs | --- | --- | +(+)Economy<br>(+)Welfare | --- |
+| UNHCR Branch Office | Arcology Living | --- | --- | --- | --- | +(++)Infrastructure | +(+)Welfare<br>+(++)Resettlement | Increases this Arcology’s maximum population size. |
+| UNPO Station | Arcology Living | --- | --- | +(++)Ops | --- | --- | --- | (+)Defence rating.<br>Improves the rate of Unrest decreases in this nation. |
+| UNOMI Listening Post | Self-Adapting Algorithms | --- | --- | +(++)Influence | --- | +(++)Social Science | +(+)STRATNET | Improves this nation’s Secrecy value. |
+
+
+
+
+
 
