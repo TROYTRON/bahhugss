@@ -49,10 +49,14 @@ The scenario divides regional populations into three categories: citizens, refug
 
 **Citizens** are considered to be the "standard" population for the purposes of TI's nation mechanics.
 
-**Refugees** depict the social pressures caused and experienced by refugees in the BAHHSCQ setting. They are created when warfare and other disasters cause population to flee into neighbouring regions; many nations will have a random number of refugees resulting from Impact at scenario start. They do not contribute to GDP, and are not considered in GDPpc calculations; but their presence in a nation corrodes all the nice stats, especially Inequality and Cohesion (and thus Unrest). This can be averted by investing in the Resettlement priority, or by having Valkyries and armies perform the Reconstruction mission, both of which move a number of refugees to the citizens category.
+**Refugees** depict the social pressures caused and experienced by refugees in the BAHHSCQ setting. They are created when warfare, instability, and other disasters cause region populations to flee into neighbouring regions; many nations will have a random number of refugees resulting from Impact at scenario start. Existing refugees may also migrate to neighbouring regions if the conditions there are favourable.
+
+Refugees do not contribute to GDP, and are not considered in GDPpc calculations; but their presence in a nation corrodes all the nice stats, especially Inequality and Cohesion (and thus Unrest). This can be averted by investing in the Resettlement priority, or by having Valkyries and armies perform the Reconstruction mission, both of which move a number of refugees to the citizens category.
+
 Note that nations controlled by Disregard will not admit _any_ refugees, while nations controlled by Enlighten will admit double.
 
 **Arcology** populations are those who live inside Arcologies. Residential modules be built to house them, which will drain population from the citizens category over time (and then refugees, if no citizens are present). If an Arcology's population ever exceeds its residential capacity, the excess population is immediately kicked out and resigned to refugee status, making the sabotage of residential modules a nice way to destabilize a nation.
+
 Arcology populations are safe from most depradations and more prosperous than ordinary citizens, improving the nation's Money and Research outputs; but they are very sensitive to drops in living standards, and highly susceptible to propaganda.
 
 ## FACTION RESOURCES
@@ -110,6 +114,8 @@ Some Arcology modules will provide bonuses to specific research categories, effe
 
 ## Module Attributes
 
+Terra Invicta's hab mechanics are described in [DD#13](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=28980&sid=6fc72d17246d07bd0cce2446f108e275).
+
 **Defense rating**: This determines how strongly the Arcology will resist external invasion attempts. Councillors belonging to the controlling faction (or its allies) will also benefit from an Arcology's Defense rating while they are inside it.
 
 **Atrocity module**: The functions of these modules are considered an atrocity and thus kept secret. If the module is ever destroyed (e.g. by a councillor sabotaging it), its existence will be revealed, and the controlling faction suffers an atrocity event and corresponding Public Opinion loss. Alternatively, disgruntled employees in low-Secrecy nations may randomly leak the facility's existence, Snowden-style.
@@ -135,6 +141,16 @@ Note that all proposed stats are merely indicative and subject to change.
 
 | Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Biome:
+-	Required tech: Arcology Living.
+-	Upgrade tech: Environmental Stewardship.
+-	I don’t really know what this should do mechanics-wise, but this should be here for setting reasons.
+
+Hydroponics:
+-	Required tech: Economies of Density.
+-	Something to do with food? Water and Volatiles?
+
 
 ## Science Modules
 
