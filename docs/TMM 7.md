@@ -77,6 +77,18 @@ Arcology resources are produced in Earth regions by Arcologies and distributed t
 
 More information on how research works in TI can be found in [DD#10](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=28950&sid=a3e1d2d6c88da0a7164062b896c82dc0).
 
+- Infrastructure.
+- Valkyries.
+- Energy.
+- Materials.
+- Information.
+- Biotechnology.
+- Social Science.
+- Military Science.
+- Antagonists.
+
+The current planned tech tree for this scenario is [here](BAHHSCQ%20Tech%20Tree-Techs%203c.png).
+
 # PROPOSED ARCOLOGY MODULES
 
 TODO
