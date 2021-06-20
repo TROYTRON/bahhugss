@@ -1,3 +1,5 @@
+**DISCLAIMER**: Due to the nature of closed beta, I have made sure to include public sources for all relevant information about Terra Invicta's mechanics. Any divergence from those sources is purely wishful thinking on my part and does not reflect the actual state of the game.
+
 # ARCOLOGY MECHANICS
 
 As described in [DN#3](docs/TMM%203.md), Arcologies are intended to marry TI's vanilla space habitat mechanics with the Earth nation mechanics. This aims to represent the social and economic shifts that humanity's in-setting aggregation within such constructs implies, as well as the increasing political and economic power taken on by Valkyries and the factions they represent.
@@ -124,13 +126,18 @@ Note that all proposed stats are merely indicative and subject to change.
 
 ## Basic Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| Extractor | _Mineral Resource Prospecting_ | --- | --- | --- | One per Arcology.<br>Rebranded Mines from TI. Self-explanatory: it provides output of the Arcology resources available in that region. |
+| Condenser | Atmospheric Refactoring | --- | ++Water<br>-Power | --- | Produces large quantities of Water, since that’s so abundant on Earth. |
+| Refinery / Chemical Plant | _Fossil Fuel Extraction_<br>Chemical Synthesis | ++Volatiles<br>-Power | --- | --- | Produces large quantities of Volatiles, since they're so abundant on Earth. |
+| Residential Tower | --- | --- | ---Water<br>-Volatiles<br>--Power | --- | Increases this Arcology’s maximum population size, facilitating a drain from this nation’s citizen and refugee populations.<br>Note that simply cramming millions of humans inside Arcologies without proper facilities should be very detrimental.<br>Note that Arcology population drains Water and Volatiles from the faction resources. |
+| STRATNET Node | _Satellite Communications_<br>Wider Arcology Network<br>Self-Adapting Algorithms<br>Expert Systems<br>Artificial General Intelligence | --- | +STRATNET<br>+Projects<br>-Power | +Infrastructure<br>+Information | Boosts this nation’s GDP growth.<br>Armies stationed in this region fight more effectively.<br>Corrodes Democracy over time in this nation. |
 
 ## General Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
 
 ## Power Modules
 
@@ -141,15 +148,12 @@ Note that all proposed stats are merely indicative and subject to change.
 | Fusion Reactor | _Nuclear Fusion Power_<br>Exotic Matter Manipulation<br>Antimatter Production | ---Water<br>-Metals<br>--Nobles | +++Power<br>---Water | --- | I’m not actually sure if there are any real differences between an ICF and a MCF reactor. I think it’d be popamole to have to weigh up more than one, anyway.<br>It might be better to handle it as being chance based. Fusion power has a low chance to be unlocked, but you have three chances: ICF, MCF, and Z-pinch. If nobody unlocks it, you’ll be stuck with solar and fission for life.<br>Also, fusion reactors are fail-deadly in BAHHSCQ. If someone sabotages them, they will take out another module in the explosion. |
 | Higgs Generator | _Higgs Particle Extraction_ | --Higgs | ++Higgs<br>+++Power | +Higgs | One per Arcology. |
 
-## Habitation Modules
-
-| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
-| --- | --- | --- | --- | --- | --- |
+## Residential Modules
 
 | Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
 | --- | --- | --- | --- | --- | --- |
 | Biome | _Arcology Living_<br>Environmental Stewardship | --- | --- | --- | I don’t really know what this should do mechanics-wise, but this should be here for setting reasons. |
-| Hydroponics Chamber | _Economies of Density_ | --- | --- | --- | Something to do with food? Water and Volatiles? |
+| Hydroponics Chamber | _Economies of Density_ | --- | --Water<br>--Volatiles<br>--Power | --- | Multiplies existing Arcology residential capacity. |
 
 ## Science Modules
 
@@ -173,8 +177,17 @@ Note that all proposed stats are merely indicative and subject to change.
 
 ## Valkyrie Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| Valkyrie Academy | _Valkyrie Core Militarization_<br>Air Warfare Doctrine<br>Valkyrie Psychology Studies<br>Directed Optimization | --- | +Ops<br>-STRATNET | +Valkyries | +++Defence rating.<br>Allows this Arcology to host one Valkyrie-army.<br>If a faction has more Valkyrie-armies than Valkyrie Academies, all enemy attempts to subvert this Arcology gain a significant bonus.<br>Reduce XP costs for augmenting Valkyrie-councillors. |
+| Higgs Simulator | _Advanced Impeller Techniques<br>Higgs-Impeller Substitution_<br>Subjective Experience Studies | --- | -Higgs<br>---Power | --- | Reduce XP and Higgs costs for augmenting Valkyrie-councillors.<br>Valkyrie-armies headquartered in this Arcology receive one free morale level. |
+| Elite Classroom | _Intermediate Impeller Techniques<br>Valkyrie Psychology Studies_<br>Directed Optimization | --- | --- | --- | +++Defence rating.<br>
+Valkyrie-armies headquartered in this Arcology receive one free morale level. |
+| Architecture Classroom | _Valkyrie Construction Framework_<br>Atomic Assembly | --- | +Projects | +++Infrastructure<br>++Materials<br>++Resettlement | --- |
+| Crafting Classroom | _Exotic Matter Manipulation_<br>Matter Supercompression<br>Directed Optimization | --- | +Projects<br>---Metals<br>--Nobles<br>-Exotics | +Infrastructure<br>+++Materials<br>+Antagonists<br>++Knowledge | --- |
+| Demolitions Classroom | _Air Warfare Doctrine_<br>Superstring Theory<br>Antimatter Production | --- | +Ops<br>+Projects<br>---Volatiles<br>--Fissiles | +Valkyries<br>+++Military Science<br>+Antagonists<br>+Knowledge<br>+Military | --- |
+| Electronics Classroom | _Quantum Computing_<br>Linear-Superpolynomial Equivalence | --- | +Projects<br>--Metals<br>---Nobles<br>-Exotics | +Infrastructure<br>+Materials<br>+++Information<br>+Knowledge<br>+STRATNET | --- |
+| Gambling Classroom | _Chaos Theory_<br>Probability Mechanics | --- | +Projects<br>-STRATNET<br>---Power | +Information<br>++++Social Science<br>+Knowledge<br>+Unity | --- |
 
 ## United Nations Modules
 
