@@ -118,7 +118,7 @@ Terra Invicta's hab mechanics are described in [DD#13](https://www.pavonisintera
 
 **Defense rating**: This determines how strongly the Arcology will resist external invasion attempts. Councillors belonging to the controlling faction (or its allies) will also benefit from an Arcology's Defense rating while they are inside it.
 
-**Atrocity module**: The functions of these modules are considered an atrocity and thus kept secret. If the module is ever destroyed (e.g. by a councillor sabotaging it), its existence will be revealed, and the controlling faction suffers an atrocity event and corresponding Public Opinion loss. Alternatively, disgruntled employees in low-Secrecy nations may randomly leak the facility's existence, Snowden-style.
+**Atrocity module**: The functions of these modules are considered an atrocity and thus kept secret. If the module is ever destroyed (e.g. by a councillor sabotaging it), its existence will be revealed, and the controlling faction suffers an atrocity event and corresponding Public Opinion loss. Alternatively, disgruntled employees in low-Secrecy nations may randomly leak the module's existence.
 
 Note that all proposed stats are merely indicative and subject to change.
 
@@ -134,28 +134,31 @@ Note that all proposed stats are merely indicative and subject to change.
 
 ## Power Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| Solar Array | _Renewable Energy Paradigm_<br>Atmospheric Refactoring | -Nobles | +Power | --- | Cheap and basic power generation module.<br>Receives massive boosts with the development of orbital power transmitters, each of which this faction controls in orbit providing a bonus to this module’s Power output. |
+| Fission Reactor | _Mineral Resource Prospecting_ | -Metals, --Fissiles | ++Power<br>-Water<br>-Fissiles | --- | Interim power plant in the event that solar doesn’t cut it and your faction misses out on fusion power for whatever reason.<br>Fissiles drain can be reduced with breeding and recycling projects, making it vaguely more competitive with fusion which consumes MEGA Water. |
+| Fusion Reactor | _Nuclear Fusion Power_<br>Exotic Matter Manipulation<br>Antimatter Production | ---Water<br>-Metals<br>--Nobles | +++Power<br>---Water | --- | I’m not actually sure if there are any real differences between an ICF and a MCF reactor. I think it’d be popamole to have to weigh up more than one, anyway.<br>It might be better to handle it as being chance based. Fusion power has a low chance to be unlocked, but you have three chances: ICF, MCF, and Z-pinch. If nobody unlocks it, you’ll be stuck with solar and fission for life.<br>Also, fusion reactors are fail-deadly in BAHHSCQ. If someone sabotages them, they will take out another module in the explosion. |
+| Higgs Generator | _Higgs Particle Extraction_ | --Higgs | ++Higgs<br>+++Power | +Higgs | One per Arcology. |
 
 ## Habitation Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
 
-Biome:
--	Required tech: Arcology Living.
--	Upgrade tech: Environmental Stewardship.
--	I don’t really know what this should do mechanics-wise, but this should be here for setting reasons.
-
-Hydroponics:
--	Required tech: Economies of Density.
--	Something to do with food? Water and Volatiles?
-
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| Biome | _Arcology Living_<br>Environmental Stewardship | --- | --- | --- | I don’t really know what this should do mechanics-wise, but this should be here for setting reasons. |
+| Hydroponics Chamber | _Economies of Density_ | --- | --- | --- | Something to do with food? Water and Volatiles? |
 
 ## Science Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| Medical Laboratory | _Biological Optimization_<br>Retroviral Modification | -Power<br>-Population | --- | +++Biotechnology | Atrocity module.<br>Armies repair notably faster when stationed in this region. |
+| High Yield Weapons Laboratory | _Strategic Deterrence_<br>Antimatter Production | --- | --Fissiles<br>---Power | ++Energy<br>++Nuclear Weapons | Drains Fissiles stockpiles in exchange for accelerating the construction of nukes in this nation.<br>Enables Valkyrie-armies to be equipped with nukes (manifesting as great improvements in combat performance). |
+|	Exotic Physics Laboratory | _Exotic Matter Manipulation_ | --- | +Exotics<br>--Nobles<br>--Power | ++Materials<br>+Antagonists | --- |
+| Supercollider | _Antimatter Production_ | --- | +Antimatter<br>---Fissiles<br>---Power | +++Energy<br>++Knowledge | --- |
 
 ## Military Modules
 
