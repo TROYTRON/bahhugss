@@ -162,8 +162,14 @@ Note that all proposed stats are merely indicative and subject to change.
 
 ## Military Modules
 
-| Module | Required Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| Special Forces Platoon / Barracks | --- | --- | ++Ops | --- | +Defence rating.<br>Rebranded Marines from TI. These can’t directly assault other Arcologies, but they can sabotage region facilities and Arcology modules without any direct councillor involvement. And, of course, prevent other factions from doing the same.<br>Armies stationed in this region fight more effectively.<br>The army headquartered in this region receives one morale level. |
+| SAM Complex / Integrated Air Defence System | _Air Warfare Doctrine_ | --- | --- | --- | ++Defence rating.<br>Hostile Valkyrie-armies and Type Zeroes take more damage attempting to assault this Arcology.<br>Counters the effects of Antagonist Type 5 army upgrades. |
+| Drone Printer | _Expert Systems<br>Industrial Nanorobotics<br>Ground Warfare Doctrine_ | --- | --- | +Military<br>+Build Army | Armies repair notably faster when stationed in this region. (Army repair rates will be somewhat reduced from vanilla TI – all of that fancy tech doesn’t replenish itself for free!)<br>The army headquartered in this region receives one morale level. |
+| Strategic Yield Weapon | _Strategic Deterrence_ | ---Fissiles<br>--Higgs | -Fissiles<br>-Power | --- | One per Arcology.<br>Atrocity facility.<br>Hugely expensive trinket that acts as a deterrent against Arcology invasion. Any attempt to invade with conventional forces results in the offending faction having its headquarters and surrounding region(s) burned to a fine molecular crisp.<br>Cannot be manually activated (to prevent player abuse and having to add new buttons to the menu). Useless against Antagonists without further research. Prime sabotage target. |
+| Interdiction Field | _Advanced Impeller Techniques<br>Higgs-Impeller Substitution<br>Arcology Defence Doctrine_ | --- | -Higgs<br>---Power | --- | +++Defence rating.<br>Prevents all hostile teleportation within this region.<br>Armies stationed in this region fight more effectively. |
+| Strategic Teleporter | _Bulk Matter Transmission_ | --- | --- | --- | One per Arcology.<br>Allow friendly armies stationed in this region to instantly teleport to any other friendly Arcology with a Strategic Teleporter.<br>A friendly Arcology is defined as: host nation is allied with this nation; controlling faction is the same or is allied with controlling faction of this Arcology.<br>All linked Arcologies will receive more refugees in the event that this Arcology is besieged and destroyed, increasing survival rate. |
 
 ## Valkyrie Modules
 
@@ -174,14 +180,14 @@ Note that all proposed stats are merely indicative and subject to change.
 
 These modules gain significantly increased stats if the controlling faction owns the respective org.
 
-| Module | Required Tech | Upgrade Tech | Construction | Production | Maintenance | Research Bonuses | Investment Bonuses | Effects |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UNESCO Heritage Site | Environmental Stewardship | --- | --- | +(+)Research | --- | --- | +(++)Knowledge | --- |
-| UNARD Design Bureau | Technological Optimization<br>Network Effects | --- | --- | +(+)Projects | --- | +(++)Military Science | +(+)Military | --- |
-| UNDHMOR Distribution Centre | Post-Scarcity Economics | --- | --- | +(+++)Money<br>+Higgs | --- | --- | +(+)Economy<br>(+)Welfare | --- |
-| UNHCR Branch Office | Arcology Living | --- | --- | --- | --- | +(++)Infrastructure | +(+)Welfare<br>+(++)Resettlement | Increases this Arcology’s maximum population size. |
-| UNPO Station | Arcology Living | --- | --- | +(++)Ops | --- | --- | --- | (+)Defence rating.<br>Improves the rate of Unrest decreases in this nation. |
-| UNOMI Listening Post | Self-Adapting Algorithms | --- | --- | +(++)Influence | --- | +(++)Social Science | +(+)STRATNET | Improves this nation’s Secrecy value. |
+| Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
+| --- | --- | --- | --- | --- | --- |
+| UNESCO Heritage Site | _Environmental Stewardship_ | --- | --- | +(+)Research | +(++)Knowledge | --- |
+| UNARD Design Bureau | _Technological Optimization<br>Network Effects_ | --- | --- | +(+)Projects<br>+(++)Military Science<br>+(+)Military | --- |
+| UNDHMOR Distribution Centre | _Post-Scarcity Economics_ | --- | --- | +(+++)Money<br>+Higgs | +(+)Economy<br>(+)Welfare | --- |
+| UNHCR Branch Office | _Arcology Living_ | --- | --- | --- | +(++)Infrastructure<br>+(+)Welfare<br>+(++)Resettlement | Increases this Arcology’s maximum population size. |
+| UNPO Station | _Arcology Living_ | --- | --- | +(++)Ops | --- | (+)Defence rating.<br>Improves the rate of Unrest decreases in this nation. |
+| UNOMI Listening Post | _Self-Adapting Algorithms_ | --- | --- | +(++)Influence | +(++)Social Science<br>+(+)STRATNET | Improves this nation’s Secrecy value. |
 
 
 
