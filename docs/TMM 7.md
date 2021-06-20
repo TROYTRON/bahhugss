@@ -155,7 +155,7 @@ Note that all proposed stats are merely indicative and subject to change.
 
 | Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
 | --- | --- | --- | --- | --- | --- |
-| Medical Laboratory | _Biological Optimization_<br>Retroviral Modification | -Power<br>-Population | --- | +++Biotechnology | Atrocity module.<br>Armies repair notably faster when stationed in this region. |
+| Medical Laboratory | _Biological Optimization_<br>Retroviral Modification | --- | -Power<br>-Population | +++Biotechnology | Atrocity module.<br>Armies repair notably faster when stationed in this region. |
 | High Yield Weapons Laboratory | _Strategic Deterrence_<br>Antimatter Production | --- | --Fissiles<br>---Power | ++Energy<br>++Nuclear Weapons | Drains Fissiles stockpiles in exchange for accelerating the construction of nukes in this nation.<br>Enables Valkyrie-armies to be equipped with nukes (manifesting as great improvements in combat performance). |
 |	Exotic Physics Laboratory | _Exotic Matter Manipulation_ | --- | +Exotics<br>--Nobles<br>--Power | ++Materials<br>+Antagonists | --- |
 | Supercollider | _Antimatter Production_ | --- | +Antimatter<br>---Fissiles<br>---Power | +++Energy<br>++Knowledge | --- |
