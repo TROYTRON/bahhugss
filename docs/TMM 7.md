@@ -73,7 +73,7 @@ Remains mostly the same as in vanilla TI, with some changes to account for the d
 | Resource | Sources | Uses |
 | --- | --- | --- |
 | Money | Councillors, nations, Arcology modules. | Allows factions to Direct Invest in nations.<br>Can be spent to rush-build warships and Arcology modules. |
-| Influence | Councillors, nations, Arcology modules.<br>Nations provide factions with Influence income based on Public Opinion. | Used for recruiting councillors, purchasing orgs, subverting nations, and conducting diplomacy. |
+| Influence | Councillors, nations, Arcology modules.<br>[Nations provide factions with Influence income based on Public Opinion.](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&t=28083&sid=228110f05d74650747999ac6e9711bca) | Used for recruiting councillors, purchasing orgs, subverting nations, and conducting diplomacy. |
 | Ops | Councillors, Arcology modules. | Spent to perform salvage and special operations. |
 | Higgs | Breaches in nations provide Higgs during the Higgs Golden Age (pre-Antagonists only).<br>Destroying Antagonist Type Zeroes and Hives distributes Higgs income to participating factions.<br>United Nations member nations receive a small Higgs income. | Can be spent to rush-build warships and Arcology modules, and is required to build and operate some of them.<br>Used for various Valkyrie-related applications, such as upgrading Valkyrie-councillors and Valkyrie-armies. | Repurposed Boost from TI. |
 | STRATNET | Councillors, nations, Arcology modules.<br>STRATNET Nodes can be built in nations and Arcologies. | Limits the number of Arcologies, warships, and Valkyrie-armies the faction may safely control.<br>Exceeding the limit results in various penalties. |
