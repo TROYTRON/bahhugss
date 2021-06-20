@@ -1,4 +1,4 @@
-**DISCLAIMER**: Due to the nature of closed beta, I have made sure to include public sources for all relevant information about Terra Invicta's mechanics. Any divergence from those sources is purely wishful thinking on my part and does not reflect the actual state of the game.
+**DISCLAIMER**: Due to the nature of closed beta, I have made sure to include public sources for all relevant information about Terra Invicta's mechanics. Any divergence from those sources is purely speculative thinking on my part related to the scenario, and does not reflect anything about the actual state of the game.
 
 # ARCOLOGY MECHANICS
 
@@ -40,6 +40,7 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | Funding | +Annual Money income increases.<br>-Cohesion decreases. | Similar to TI, but with a small Cohesion penalty to represent divided opinions about where the cash ends up. Might end up removing this priority altogether. |
 | Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces Boost priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
 | STRATNET | +STRATNET capacity increases by 1.<br>-Democracy decreases. | Rebranded Mission Control priority from TI. Democracy penalty reflects increased elite control over society enabled by STRATNET.<br>Note that the Democracy decrease from this priority is a one-time event, compared to the continuous-over-time decrease from STRATNET Nodes in Arcologies. |
+| Build Arcology | +An Arcology is constructed in a region in this nation. | The capital is selected first, then coreEco regions, then descending by population. |
 | Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army.<br>Excess armies are held in reserve, being automatically deployed if an existing army is destroyed. |
 | Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas.<br>Excess navies are held in reserve, and will be assigned to reserve armies that are deployed. |
 | Nuclear Weapons | +Nation gains one nuclear barrage. | Required tech: _Strategic Deterrence_. |
@@ -67,7 +68,7 @@ Described in [DD#3](https://www.pavonisinteractive.com/phpBB3/viewtopic.php?f=7&
 
 Remains mostly the same as in vanilla TI, with some changes to account for the differences in setting.
 
-### Earth Resources
+### Political Resources
 
 | Resource | Sources | Uses |
 | --- | --- | --- |
