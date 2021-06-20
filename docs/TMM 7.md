@@ -41,10 +41,10 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces Boost priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
 | STRATNET | +STRATNET capacity increases by 1.<br>-Democracy decreases. | Rebranded Mission Control priority from TI. Democracy penalty reflects increased elite control over society enabled by STRATNET.<br>Note that the Democracy decrease from this priority is a one-time event, compared to the continuous-over-time decrease from STRATNET Nodes in Arcologies. |
 | Build Arcology | +An Arcology is constructed in a region in this nation. | The capital is selected first, then coreEco regions, then descending by population. |
-| Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army.<br>Excess armies are held in reserve, being automatically deployed if an existing army is destroyed. |
-| Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_.<br>Navies allow armies to travel overseas.<br>Excess navies are held in reserve, and will be assigned to reserve armies that are deployed. |
+| Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army. |
+| Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_. |
 | Nuclear Weapons | +Nation gains one nuclear barrage. | Required tech: _Strategic Deterrence_. |
-| Fortifications | +One region in this nation gains a fortification. | Required tech: _Regional Defense Doctrine_.<br>Rebranded "Space Defences" priority from TI. STO defenses still function the same way, but now also grant defensive combat bonuses to friendly armies stationed in the region. Can also be repeated multiple times to improve the bonus. |
+| Fortifications | +One region in this nation gains a fortification. | Required tech: _Regional Defense Doctrine_.<br>Rebranded "Space Defences" priority from TI. STO defenses still function the same way, but now also grant defensive combat bonuses to friendly armies stationed in the region. |
 
 ### Population Mechanics
 
@@ -139,6 +139,23 @@ Note that all proposed stats are merely indicative and subject to change.
 
 | Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
 | --- | --- | --- | --- | --- | --- |
+| Nerve Stapler | _Neural Restructuring_ | --- | --- | +++Unity | One per Arcology.<br>Atrocity facility.<br>All your Unrest problems will be solved forever, at the small cost of reducing your entire population to mindless drones! Not that it would be so undesirable for some factions...<br>This nation’s Cohesion cannot fall below 10 * regions with staplers / total regions.<br>Corrodes Democracy over time in this nation. |
+| Neuromod Fabricator | _Expedited Education_ | --- | -Nobles<br>-Exotics<br>--Power<br>-Population | --- | Atrocity facility.<br>Reduces costs for augmenting councillors and upgrading armies.<br>The army headquartered in this region receives one morale level.<br>Improves the rate of Education increases in this nation. |
+| Environmental Regenerator | _Environmental Stewardship_ | --- | --Water<br>--Volatiles<br>-Power | --- | Improves the rate of environmental repair in this nation. |
+| Cryptominer | _Non-Linear Mathematics_ | ---Nobles | ++++Money<br>---Power | +++Spoils | Makes mega money and does little else. |
+| Nanorecycler | _Arcology Living<br>Industrial Nanorobotics_ | --- | -Population | +++Spoils<br>+Fortifications | Atrocity facility.<br>Reduces drains of Metals and Nobles. |
+| Fabrication Chamber | _Industrial Nanorobotics_<br> | Exotic Matter Manipulation<br>Atomic Assembly<br>Subatomic Assembly | --- | ++Economy<br>+Build Army<br>+Fortifications | Boosts this nation’s GDP growth. |
+| Universal Constructor | _Subatomic Assembly<br>Exotic Matter Manipulation_<br>Matter Supercompression<br>Directed Optimization | --- | +Exotics<br>--Water<br>--Volatiles<br>--Metals<br>--Nobles<br>---Power | +++Economy<br>+Build Army<br>++Fortifications | Counts as a shipyard and a factory module.<br>Boosts this nation’s GDP growth.<br>Provides discount to space warship construction. |
+| Individual Utility Maximizer | _Post-Scarcity Economics_<br>Integrated Logistics<br>Inter-Human Networking | --- | --- | +Infrastructure<br>+Social Science<br>++Welfare | Calculates the exact optimum distribution of goods in order to ensure that all citizens receive exactly what they need to attain maximum satisfaction.<br>Improves the rate of Inequality decreases in this nation.<br>Corrodes Democracy over time in this nation. |
+| Automated Dockyards | _Expert Systems<br>Naval Warfare Doctrine_ | --- | --- | ++Economy<br>++Build Navy | Can only be built in Arcologies in coastal regions.<br>The army headquartered in this region receives one morale level if it has a navy attached. |
+| Maritime Control Centre | _Linear-Superpolynomial Equivalence<br>Naval Warfare Doctrine_ | --- | --- | +++Build Navy | Can only be built in Arcologies in coastal regions.<br>The army headquartered in this region receives one morale level if it has a navy attached.<br>Each MCC built in this nation geometrically increases naval score. |
+| Space Elevator | _Mission to Orbit<br>Exotic Matter Manipulation_ | ---Power | +++Economy | --- | One per Arcology.<br>Provides massive industrial boost to this nation and Arcology.<br>Boosts this nation’s GDP growth.<br>Provides discount to space warship construction. |
+| Shipping Coordinator | _Wider Arcology Network_<br>Integrated Logistics | --- | +Population<br>-Power | +Social Science | Increases population growth in this nation. |
+| Exowomb Array | _Protein Synthesis_<br>Germline Modification<br>Expedited Education | --- | ++Population<br>--Water<br>--Volatiles<br>--Power | --- | Massively increases population growth in this nation. |
+| Cloning Vats | _Subatomic Assembly_ | --- | +++Population<br>---Water<br>---Volatiles<br>---Power | --- | Vastly increases population growth in this nation. |
+| Augmentation Clinic | _Retroviral Modification_ | --- | --- | +Economy | The army headquartered in this region receives one morale level. |
+| Cyborg Factory | _Mind-Machine Interface_<br>Inter-Human Networking | --- | --- | +Economy<br>+Knowledge | The army headquartered in this region receives one morale level. |
+| Demarchy Calculator | _Post-Scarcity Economics_ | --- | --- | +Infrastructure<br>++Social Science | Significantly improves Democracy in this nation over time. |
 
 ## Power Modules
 
@@ -182,8 +199,7 @@ Note that all proposed stats are merely indicative and subject to change.
 | --- | --- | --- | --- | --- | --- |
 | Valkyrie Academy | _Valkyrie Core Militarization_<br>Air Warfare Doctrine<br>Valkyrie Psychology Studies<br>Directed Optimization | --- | +Ops<br>-STRATNET | +Valkyries | +++Defence rating.<br>Allows this Arcology to host one Valkyrie-army.<br>If a faction has more Valkyrie-armies than Valkyrie Academies, all enemy attempts to subvert this Arcology gain a significant bonus.<br>Reduce XP costs for augmenting Valkyrie-councillors. |
 | Higgs Simulator | _Advanced Impeller Techniques<br>Higgs-Impeller Substitution_<br>Subjective Experience Studies | --- | -Higgs<br>---Power | --- | Reduce XP and Higgs costs for augmenting Valkyrie-councillors.<br>Valkyrie-armies headquartered in this Arcology receive one free morale level. |
-| Elite Classroom | _Intermediate Impeller Techniques<br>Valkyrie Psychology Studies_<br>Directed Optimization | --- | --- | --- | +++Defence rating.<br>
-Valkyrie-armies headquartered in this Arcology receive one free morale level. |
+| Elite Classroom | _Intermediate Impeller Techniques<br>Valkyrie Psychology Studies_<br>Directed Optimization | --- | --- | --- | +++Defence rating.<br>Valkyrie-armies headquartered in this Arcology receive one free morale level. |
 | Architecture Classroom | _Valkyrie Construction Framework_<br>Atomic Assembly | --- | +Projects | +++Infrastructure<br>++Materials<br>++Resettlement | --- |
 | Crafting Classroom | _Exotic Matter Manipulation_<br>Matter Supercompression<br>Directed Optimization | --- | +Projects<br>---Metals<br>--Nobles<br>-Exotics | +Infrastructure<br>+++Materials<br>+Antagonists<br>++Knowledge | --- |
 | Demolitions Classroom | _Air Warfare Doctrine_<br>Superstring Theory<br>Antimatter Production | --- | +Ops<br>+Projects<br>---Volatiles<br>--Fissiles | +Valkyries<br>+++Military Science<br>+Antagonists<br>+Knowledge<br>+Military | --- |
