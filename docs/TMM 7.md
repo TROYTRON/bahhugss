@@ -155,7 +155,7 @@ Note that all proposed stats are merely indicative and subject to change.
 | Cloning Vats | _Subatomic Assembly_ | --- | +++Population<br>---Water<br>---Volatiles<br>---Power | --- | Vastly increases population growth in this nation. |
 | Augmentation Clinic | _Retroviral Modification_ | --- | --- | +Economy | The army headquartered in this region receives one morale level. |
 | Cyborg Factory | _Mind-Machine Interface_<br>Inter-Human Networking | --- | --- | +Economy<br>+Knowledge | The army headquartered in this region receives one morale level. |
-| Demarchy Calculator | _Post-Scarcity Economics_ | --- | --- | +Infrastructure<br>++Social Science | Significantly improves Democracy in this nation over time. |
+| Demarchy Coordinator | _Wider Arcology Network_<br>Mind-Machine Interface<br>Inter-Human Networking | --- | --- | +Infrastructure<br>++Social Science | Significantly improves Democracy in this nation over time. |
 
 ## Power Modules
 
