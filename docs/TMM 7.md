@@ -121,6 +121,10 @@ Terra Invicta's hab mechanics are described in [DD#13](https://www.pavonisintera
 
 **Defense rating**: This determines how strongly the Arcology will resist external invasion attempts. Councillors belonging to the controlling faction (or its allies) will also benefit from an Arcology's Defense rating while they are inside it.
 
+**Shipyard**: This module allows space warships to be constructed and housed at the Arcology. These are typically located in space for efficiency and balance reasons.
+
+**Factory module**: The presence of this module allows the controlling faction to manually construct Arcologies on Earth (as opposed to using the Build Arcology priority).
+
 **Atrocity module**: The functions of these modules are considered an atrocity and thus kept secret. If the module is ever destroyed (e.g. by a councillor sabotaging it), its existence will be revealed, and the controlling faction suffers an atrocity event and corresponding Public Opinion loss. Alternatively, disgruntled employees in low-Secrecy nations may randomly leak the module's existence.
 
 Note that all proposed stats are merely indicative and subject to change.
