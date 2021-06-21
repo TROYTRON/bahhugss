@@ -32,15 +32,15 @@ The scenario mostly retains the same set of priorities as TI, with a few additio
 | --- | --- | --- |
 | Economy | +GDP per capita increases.<br>-Inequality increases.<br>-Environmental damage increases. | Unchanged from TI. |
 | Welfare | +Inequality decreases.<br>+Environmental damage decreases. | Unchanged from TI. |
-| Resettlement | +Moves population from "refugees" to "citizens" status. | New priority. See below for explanation of population mechanics.<br>Disregard is unable to invest in this priority. |
-| Knowledge | +Democracy increases.<br>+Education increases.<br>+Cohesion moves towards 5.<br>-Inequality increases.<br>Overfunding Knowledge reduces the nation's Secrecy. | Mostly the same as in TI, with the addition of a small Inequality penalty reflecting academic elitism and the diversion of resources towards "ivory tower" vanity projects. |
-| Unity | +Cohesion increases.<br>-Democracy decreases.<br>+Public Opinion moves towards controlling faction(s). | Unchanged from TI. |
+| Resettlement | +Moves population from "refugees" to "citizens" status. | New priority. See below for explanation of population mechanics.<br>Not available to Disregard. |
+| Knowledge | +Democracy increases.<br>+Education increases.<br>+Cohesion moves towards 5.<br>-Inequality increases.<br>Overfunding Knowledge reduces the nation's Secrecy. | Mostly the same as in TI, with the addition of an Inequality penalty reflecting academic elitism and the diversion of resources towards "ivory tower" vanity projects. |
+| Unity | +Cohesion increases.<br>-Democracy decreases.<br>+Public Opinion moves towards controlling faction(s). | Unchanged from TI.<br>Not available to Self-Sustain. |
 | Military | +If Unrest is low, Miltech score increases.<br>+If Unrest is high, Unrest decreases. | Unchanged from TI. |
-| Spoils | +Grants huge lump sum of Money to controlling faction(s).<br>-Democracy decreases.<br>-Inequality increases.<br>-Environmental damage increases.<br>Underfunding Spoils causes dissatisfied elites, increasing the risk of a coup. | Unchanged from TI. |
+| Spoils | +Grants huge lump sum of Money to controlling faction(s).<br>-Democracy decreases.<br>-Inequality increases.<br>-Environmental damage increases.<br>Underfunding Spoils causes dissatisfied elites, increasing the risk of a coup. | Unchanged from TI.<br>Not available to Enlighten. |
 | Funding | +Annual Money income increases.<br>-Cohesion decreases. | Similar to TI, but with a small Cohesion penalty to represent divided opinions about where the cash ends up. Might end up removing this priority altogether. |
 | Higgs | +Higgs income from Breaches increases. | Required tech: _Higgs Particle Extraction_.<br>Replaces Boost priority from TI, as the Boost resource is repurposed in this scenario.<br>Note that this priority is only available during the Higgs Golden Age. It becomes unavailable upon the Antagonists' arrival. |
 | STRATNET | +STRATNET capacity increases by 1.<br>-Democracy decreases. | Rebranded Mission Control priority from TI. Democracy penalty reflects increased elite control over society enabled by STRATNET.<br>Note that the Democracy decrease from this priority is a one-time event, compared to the continuous-over-time decrease from STRATNET Nodes in Arcologies. |
-| Build Arcology | +An Arcology is constructed in a region in this nation. | The capital is selected first, then coreEco regions, then descending by population. |
+| Build Arcology | +An Arcology is constructed in a region in this nation. | Required tech: _Arcology Construction_.<br>The capital is selected first, then coreEco regions, then descending by population. |
 | Build Army | +Nation gains one new conventional army. | Required tech: _Military Salvage_.<br>Each non-colony region in a nation can support one conventional army. |
 | Build Navy | +One conventional army in this nation gains a navy. | Required tech: _International Trade and Travel_. |
 | Nuclear Weapons | +Nation gains one nuclear barrage. | Required tech: _Strategic Deterrence_. |
