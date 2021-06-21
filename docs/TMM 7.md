@@ -133,7 +133,7 @@ Note that all proposed stats are merely indicative and subject to change.
 
 | Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
 | --- | --- | --- | --- | --- | --- |
-| Extractor | _Mineral Resource Prospecting_ | --- | --- | --- | One per Arcology.<br>Rebranded Mines from TI. Self-explanatory: it provides output of the Arcology resources available in that region. |
+| Extractor | --- | --- | --- | --- | One per Arcology.<br>Rebranded Mines from TI. Self-explanatory: it provides output of the Arcology resources available in that region. |
 | Condenser | Atmospheric Refactoring | --- | ++Water<br>-Power | --- | Produces large quantities of Water, since that’s so abundant on Earth. |
 | Refinery / Chemical Plant | _Fossil Fuel Extraction_<br>Chemical Synthesis | ++Volatiles<br>-Power | --- | --- | Produces large quantities of Volatiles, since they're so abundant on Earth. |
 | Residential Tower | --- | --- | ---Water<br>-Volatiles<br>--Power | --- | Increases this Arcology’s maximum population size, facilitating a drain from this nation’s citizen and refugee populations.<br>Note that simply cramming millions of humans inside Arcologies without proper facilities should be very detrimental.<br>Note that Arcology population drains Water and Volatiles from the faction resources. |
