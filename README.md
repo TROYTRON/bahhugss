@@ -12,7 +12,7 @@ Based on the setting of Battle Action Harem Highschool Side Character Quest_
 - [Design Notes #7 - Arcology Mechanics and Modules](docs/TMM%207.md)
 
 ## Factions
-- [Faction Leaders](TI-PVC%20Leaderboard%2001C.png)
+- [Faction Leaders](TI-PVC%20Leaderboard%2001D.png)
 - [Faction Ideology Chart](BAHHSCQ%20Politics%20v4.png)
 
 ## Scenario Design (heavily WIP)
