@@ -216,12 +216,12 @@ These modules gain significantly increased stats if the controlling faction owns
 
 | Module | _Required Tech_<br>Upgrade Tech | Construction | Production & Maintenance | Research & Investment Bonus | Effects & Notes |
 | --- | --- | --- | --- | --- | --- |
-| UNESCO Heritage Site | _Environmental Stewardship_ | --- | --- | +(+)Research | +(++)Knowledge | --- |
+| UNESCO Heritage Site | _Environmental Stewardship_ | --- | +(+)Research | +(++)Knowledge | --- |
 | UNARD Design Bureau | _Technological Optimization<br>Network Effects_ | --- | +(+)Projects | +(++)Military Science<br>+(+)Military | --- |
-| UNDHMOR Distribution Centre | _Post-Scarcity Economics_ | --- | --- | +(+++)Money<br>+Higgs | +(+)Economy<br>(+)Welfare | --- |
-| UNHCR Branch Office | _Arcology Living_ | --- | --- | --- | +(++)Infrastructure<br>+(+)Welfare<br>+(++)Resettlement | Increases this Arcology’s maximum population size. |
-| UNPO Station | _Arcology Living_ | --- | --- | +(++)Ops | --- | (+)Defence rating.<br>Improves the rate of Unrest decreases in this nation. |
-| UNOMI Listening Post | _Self-Adapting Algorithms_ | --- | --- | +(++)Influence | +(++)Social Science<br>+(+)STRATNET | Improves this nation’s Secrecy value. |
+| UNDHMOR Distribution Centre | _Post-Scarcity Economics_ | --- | +(+++)Money<br>+Higgs | +(+)Economy<br>(+)Welfare | --- |
+| UNHCR Branch Office | _Arcology Living_ | --- | --- | +(++)Infrastructure<br>+(+)Welfare<br>+(++)Resettlement | Increases this Arcology’s maximum population size. |
+| UNPO Station | _Arcology Living_ | --- | +(++)Ops | --- | (+)Defence rating.<br>Improves the rate of Unrest decreases in this nation. |
+| UNOMI Listening Post | _Self-Adapting Algorithms_ | --- | +(++)Influence | +(++)Social Science<br>+(+)STRATNET | Improves this nation’s Secrecy value. |
 
 
 
