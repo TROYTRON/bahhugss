@@ -10,6 +10,7 @@ Based on the setting of Battle Action Harem Highschool Side Character Quest_
 - [Design Notes #5 - Scenario Starting Nations, Part 2](docs/TMM%205.md)
 - [Design Notes #6 - Warfare](docs/TMM%206.md)
 - [Design Notes #7 - Arcology Mechanics and Modules](docs/TMM%207.md)
+- [Design Notes #8 - National Agendas and Mandates](docs/TMM%208.md)
 
 ## Factions
 - [Faction Leaders](TI-PVC%20Leaderboard%2001D.png)
