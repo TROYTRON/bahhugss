@@ -43,6 +43,7 @@ Based on the setting of Battle Action Harem Highschool Side Character Quest_
 - Hazard: Scenario design.
 - Atashkada: Scenario design.
 - Asa: Scenario design.
+- Kei: Scenario consulting (China and SEA).
 - BOTcommander and Pavonis Interactive Discord community: General modding discussion.
 - johnnylump and Pavonis Interactive: Terra Invicta developers, very supportive of modding efforts and friendly in general.
 - Project Valkyrie Core Discord community: Setting and tech tree discussion.
